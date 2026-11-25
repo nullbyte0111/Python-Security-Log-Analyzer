@@ -1,0 +1,32 @@
+[
+    {
+        "timestamp": "2026-11-25 10:01:24",
+        "source_ip": "203.0.113.45",
+        "username": "root",
+        "hostname": "server01",
+        "failed_attempts": 5,
+        "time_window": 60,
+        "severity": "MEDIUM",
+        "description": "Possible brute-force activity"
+    },
+    {
+        "timestamp": "2026-11-25 10:01:27",
+        "source_ip": "203.0.113.45",
+        "username": "root",
+        "hostname": "server01",
+        "failed_attempts": 5,
+        "time_window": 60,
+        "severity": "HIGH",
+        "description": "Successful login after repeated failures"
+    },
+    {
+        "timestamp": "2026-11-25 10:05:13",
+        "source_ip": "198.51.100.23",
+        "username": "test",
+        "hostname": "server01",
+        "failed_attempts": 5,
+        "time_window": 60,
+        "severity": "MEDIUM",
+        "description": "Possible brute-force activity"
+    }
+]

@@ -1,0 +1,4 @@
+timestamp,source_ip,username,hostname,failed_attempts,time_window,severity,description
+2026-11-25 10:01:24,203.0.113.45,root,server01,5,60,MEDIUM,Possible brute-force activity
+2026-11-25 10:01:27,203.0.113.45,root,server01,5,60,HIGH,Successful login after repeated failures
+2026-11-25 10:05:13,198.51.100.23,test,server01,5,60,MEDIUM,Possible brute-force activity
