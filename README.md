@@ -84,7 +84,7 @@ No external Python packages are required.
 
 ### Clone the Repository
 
-    git clone <https://github.com/nullbyte01111/Python-Security-Log-Analyzer>
+    git clone <https://github.com/nullbyte0111/Python-Security-Log-Analyzer>
     cd Python-Security-Log-Analyzer
 
 ### Run the Analyzer
